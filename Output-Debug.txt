@@ -1,0 +1,15 @@
+﻿'ConsoleApplication6.exe' (Win32): Loaded 'C:\Users\user\source\repos\ConsoleApplication6\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe'. Symbols loaded.
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 13948 has exited with code 0 (0x0).
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'ConsoleApplication6.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 9308 has exited with code 0 (0x0).
+The thread 12536 has exited with code 0 (0x0).
+The program '[14136] ConsoleApplication6.exe' has exited with code 0 (0x0).
